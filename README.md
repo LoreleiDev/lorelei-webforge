@@ -5,7 +5,7 @@ WebForge is a router skill for fullstack website projects: it asks first (what y
 ## Install
 
 ```
-npx skills add LoreleiDev/webforge
+npx skills add LoreleiDev/lorelei-webforge
 ```
 
 ## Dependencies
